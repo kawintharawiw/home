@@ -53,14 +53,26 @@ github.io
       <li class="nav-item d-none d-sm-inline-block">
         <a href="index3.html" class="nav-link">Home</a>
       </li><li class="nav-item d-none d-sm-inline-block">
-	  <a href="http://www.thaiall.com/adminlte-3.0.4/pages/examples/burin1.htm" class="nav-link">Burin1</a>
-      </li><li class="nav-item d-none d-sm-inline-block">
-	  <a href="http://www.thaiall.com/adminlte/adminlte_fa_font.rar" class="nav-link">font.rar</a>
-      </li><li class="nav-item d-none d-sm-inline-block">
-	  <a href="http://www.thaiall.com/adminlte/adminlte.htm" class="nav-link">htm</a>
-	  </li><li class="nav-item d-none d-sm-inline-block">
-	  <a href="https://thaiall.github.io/www/adminlte/adminlte_github.htm" class="nav-link">github.io</a>
-	  </li>
+
+<!-- Notifications Dropdown Menu -->
+<li class="nav-item dropdown">
+  <a class="nav-link" data-toggle="dropdown" href="#">AdminLTE</a>
+  <div class="dropdown-menu dropdown-menu-lg dropdown-menu-left">
+    <div class="dropdown-divider"></div>
+    <a href="https://kawintharawiw.github.io/mycool/index.html" class="nav-link">web wiw</a>
+    <div class="dropdown-divider"></div>
+    <div class="dropdown-divider"></div>
+    <a href="https://kawintharawiw.github.io/portfolio/portfolio.html?fbclid=IwAR2Ifo-mYRBRTPwknZCJnTegDVYZZQwIjmRp4lx4eZenmtgVXla6ftvdeu0" class="nav-link">portfolio</a>
+    <div class="dropdown-divider"></div>		
+    <a href="http://www.thaiall.com/adminlte/adminlte_fa_font.rar" class="nav-link">font.rar</a>
+    <div class="dropdown-divider"></div>
+    <a href="http://www.thaiall.com/adminlte/adminlte.htm" class="nav-link">htm</a>
+    <div class="dropdown-divider"></div>
+    <a href="https://thaiall.github.io/www/adminlte/adminlte_github.htm" class="nav-link">github.io</a>
+    <div class="dropdown-divider"></div>
+    <a href="https://thaiall.github.io/mygitfriends/adminlte_mygitfriends.htm" class="nav-link">mygitfriends</a>
+  </div>
+</li>
     </ul>
 
     <!-- SEARCH FORM -->
@@ -94,71 +106,335 @@ github.io
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class with font-awesome or any other icon font library -->
           <!-- li class="nav-item has-treeview menu-open" -->
-          <li class="nav-item has-treeview">
-            <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                Nation University
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="http://www.nation.ac.th/index.php/th/faculty-of-bba" class="nav-link active">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>คณะบริหารธุรกิจ</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="http://www.nation.ac.th/index.php/th/component/sppagebuilder/124-" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>ส่วนงานไอที</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="http://www.nation.ac.th/index.php/th/component/sppagebuilder/122-" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>ส่วนงานวิจัย</p>
-                </a>
-              </li>
-            </ul>
-          </li>
-
-		  <li class="nav-item has-treeview menu-close">
+          <li class="nav-item has-treeview menu-close">
             <a href="https://github.com/kawintharawiw?tab=repositories" class="nav-link">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <i class="nav-icon fas fa-globe"></i>
               <p>
-                กวินทรา ยะป๊อก
+                Social Media
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
                 <a href="https://kawintharawiw.github.io/home/index.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>home</p>
+                  <i class="fas fa-play-circle nav-icon"></i>
+                  <p>Home</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="https://www.facebook.com/kawintara.wiw/" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>facebook</p>
+                  <i class="fas fa-play-circle nav-icon"></i>
+                  <p>Facebook</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="https://www.youtube.com/channel/UCf2-upkzyK9GEpKYy-ySX3A?view_as=subscriberP" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>youtobe</p>
+                  <i class="fas fa-play-circle nav-icon"></i>
+                  <p>Youtobe</p>
                 </a>
               </li>
               <li class="nav-item">
-              <a href="me.php" class="nav-link active">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>about me</p>
+                <a href="https://twitter.com/KawintharaY" class="nav-link">
+                  <i class="fas fa-play-circle nav-icon"></i>
+                  <p>Twitter</p>
                 </a>
-              </li>                
+              </li>
+              <li class="nav-item">
+                <a href="https://www.instagram.com/kawinkawinthara/" class="nav-link">
+                  <i class="fas fa-play-circle nav-icon"></i>
+                  <p>Instagram</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="https://kawintharawiw.github.io/home/me.html" class="nav-link">
+                  <i class="fas fa-play-circle nav-icon"></i>
+                  <p>About Me</p>
+                </a>
+              </li>
             </ul>
           </li>
+
+  	     <li class="nav-item has-treeview menu-close">
+            <a href="http://www.thaiall.com/me" class="nav-link">
+              <i class="nav-icon fas fa-atlas"></i>
+              <p>
+                Subject
+                <i class="right fas fa-angle-left"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+              <li class="nav-item">
+                <a href="https://mim321.github.io/home/index.html" class="nav-link">
+                  <i class="fas fa-play-circle nav-icon"></i>
+                  <p>
+                    JAVA
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
+                </a>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="https://github.com/kawintharawiw/CPSC462_631_java/tree/master/data.go.th" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>data.go.th</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://github.com/kawintharawiw/CPSC462_631_java/tree/master/pyramidjava" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>pyramid</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://github.com/kawintharawiw/CPSC462_631_java/tree/master/java_bufferedreader" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>bufferedreader</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://github.com/kawintharawiw/CPSC462_631_java/tree/master/array%20two-dimensional" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>array</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="https://github.com/kawintharawiw/CPSC462_631_java/tree/master/max_min_keyword_java" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>max min</p>
+                    </a>
+                  </li>                               
+                </ul>
+              </li>
+            </ul>
+
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="https://mim321.github.io/home/index.html" class="nav-link">
+                    <i class="fas fa-play-circle nav-icon"></i>
+                    <p>
+                      PHP
+                      <i class="right fas fa-angle-left"></i>
+                    </p>
+                  </a>
+                  <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC331_631_php/tree/master/Northwind" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>northwind</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://6108111008kawinthara.000webhostapp.com/wiw_all.php?fbclid=IwAR0k0euNI0HguITdpPFZTjtIN-3DG9o36wWCmuCd0GxBiypPxLeP5PdCBQY" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>pyramid</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC331_631_php/tree/master/northwind_update" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>northwind update</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC331_631_php/tree/master/link3page" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>link3page</p>
+                      </a>
+                    </li>                               
+                  </ul>
+                </li>
+              </ul>
+
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="https://mim321.github.io/home/index.html" class="nav-link">
+                    <i class="fas fa-play-circle nav-icon"></i>
+                    <p>
+                      HCI
+                      <i class="right fas fa-angle-left"></i>
+                    </p>
+                  </a>
+                  <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                      <a href="https://kawintharawiw.github.io/CPSC321_631_hci/" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>adminlte-3.0.4</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://kawinthara.blogspot.com/p/apple-unveils-new-apple-watch.html?fbclid=IwAR3vZhjNM9V8g9BjxRWcCg4gSXsHMd_7zlO5_Woh4GM5AARh0-OLlbnaL_4" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>ข่าว it</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC321_631_hci/blob/master/homework1/CPSC321_631_hci_HW1.1.jpg" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>it equipment</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC321_631_hci/tree/master/joom%20webpage" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>joom webpag</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC321_631_hci/tree/master/joom" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>joom</p>
+                      </a>
+                    </li>                               
+                  </ul>
+                </li>
+              </ul>
+
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="https://mim321.github.io/home/index.html" class="nav-link">
+                    <i class="fas fa-play-circle nav-icon"></i>
+                    <p>
+                      LOGIC
+                      <i class="right fas fa-angle-left"></i>
+                    </p>
+                  </a>
+                  <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC103_612/blob/main/CPSC103_612_mix_work_freshman/homework10_NAND_NOR/NAND_NOR%20GATE.pdf" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>nand nor</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC103_612/blob/main/CPSC103_612_mix_work_freshman/homework9_KMAP/homework_9_KMAP.pdf" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>kmap</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC103_612/tree/main/CPSC103_612_mix_work_freshman/homework5_Truth-Table" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>truth table</p>
+                      </a>
+                    </li>                         
+                  </ul>
+                </li>
+              </ul>
+
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="https://mim321.github.io/home/index.html" class="nav-link">
+                    <i class="fas fa-play-circle nav-icon"></i>
+                    <p>
+                      OS
+                      <i class="right fas fa-angle-left"></i>
+                    </p>
+                  </a>
+                  <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/linux-1" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>linux-1</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC231_HW3_pyramid_javascript" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>pyramid</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC231_HW2_Loop" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>loop</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://kawintharawiw.github.io/linux/" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>linux</p>
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="https://github.com/kawintharawiw/CPSC231_HW4.2_sorting" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>sorting</p>
+                      </a>
+                    </li>                               
+                  </ul>
+                </li>
+              </ul>
+
+            <li class="nav-item has-treeview menu-close">
+                <a href="https://kawintharawiw.github.io/home/index.html" class="nav-link">
+                  <i class="nav-icon fas fa-address-book"></i>
+                  <p>
+                    Portfolio
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
+                </a>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="https://6108111008kawinthara.000webhostapp.com/wiw_all.php?fbclid=IwAR2d0UqnqD6sv9B6v9Zr5MVyfIrKWX2zEOypDCooqV2twDxLDnh7QOZwvK0" class="nav-link">
+                      <i class="fas fa-play-circle nav-icon"></i>
+                      <p>pyramid PHP</p>
+                    </a>
+                  </li>
+                  <li class="facebook">
+                    <a href="https://kawintharawiw.github.io/CPSC321_631_hci_joom_webpage/" class="nav-link">
+                      <i class="fas fa-play-circle nav-icon"></i>
+                      <p>joom webpage</p>
+                    </a>
+                  </li>
+                  <li class="facebook">
+                    <a href="https://kawintharawiw.github.io/kawintharawiw-AdminLTE_3.5/" class="nav-link">
+                      <i class="fas fa-play-circle nav-icon"></i>
+                      <p>adminLTE_3.5</p>
+                    </a>
+                  </li>
+                  <li class="facebook">
+                    <a href="https://kawintharawiw.github.io/Myprofile/" class="nav-link">
+                      <i class="fas fa-play-circle nav-icon"></i>
+                      <p>myprofile</p>
+                    </a>
+                  </li>
+                  <li class="facebook">
+                    <a href="https://kawintharawiw.github.io/mycool/" class="nav-link">
+                      <i class="fas fa-play-circle nav-icon"></i>
+                      <p>mycool</p>
+                    </a>
+                  </li>
+                  <li class="facebook">
+                    <a href="http://kawinthara008.blogspot.com/2018/09/blog-post.html" class="nav-link">
+                      <i class="fas fa-play-circle nav-icon"></i>
+                      <p>blog</p>
+                    </a>
+                  </li>              
+                </ul>
+            </li>
+
+            <li class="nav-item has-treeview menu-close">
+              <a href="https://kawintharawiw.github.io/home/index.html" class="nav-link">
+                <i class="nav-icon fas fa-atom"></i>
+                <p>
+                  Projects
+                  <i class="right fas fa-angle-left"></i>
+                </p>
+              </a>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="http://oservice.skru.ac.th/ebookft/1424/%C3%C7%C1.pdf" class="nav-link">
+                    <i class="fas fa-play-circle nav-icon"></i>
+                    <p>ร้านขายยา</p>
+                  </a>
+                </li>
+                <li class="facebook">
+                  <a href="http://cmuir.cmu.ac.th/handle/6653943832/17885" class="nav-link">
+                    <i class="fas fa-play-circle nav-icon"></i>
+                    <p>ฟาร์มโคนม</p>
+                  </a>
+                </li>              
+              </ul>
+            </li>            
 
           <li class="nav-item">
             <a href="http://www.thaiall.com/web2" class="nav-link">
@@ -225,29 +501,43 @@ github.io
       </div>	
 </fieldset>
 
-<fieldset class="col-12 small-box" style="font-family:kanit;"><legend><b>การทำ CSR</b></legend>
+<fieldset class="col-12 small-box" style="font-family:kanit;"><legend><b>ยินต้อนรับเข้าสู่เวทีของวิว</b></legend>
 <style>
 .bigcap{float:left;font-size:60px;line-height:0.5;margin-top:5px;margin-right:5px;margin-left:5px;color:#000088}
 </style>
-<p><span class="bigcap">C</span><b>SR (Corporate Social Responsibility) หรือ บรรษัทบริบาล</b>
-หมายถึง การดำเนินกิจกรรมภายในและภายนอกองค์กร 
-ที่คำนึงถึงผลกระทบต่อสังคมทั้งในองค์กรและในระดับใกล้และไกล 
-ด้วยการใช้ทรัพยากรที่มีอยู่ในองค์กร หรือทรัพยากรจากภายนอกองค์กร 
-ในอันที่จะทำให้อยู่ร่วมกันในสังคมได้อย่างเป็นปกติสุข
-</p>
-<p><span class="bigcap">C</span><b>SR</b> ในระดับของประชาสังคม ตัวอย่างความรับผิดชอบต่อสังคมของกิจการ ได้แก่ 
-การสร้างความร่วมมือระหว่างกลุ่มหรือเครือข่ายอื่น ๆ ในการพัฒนาสังคม 
-การตรวจตราดูแลมิให้กิจการเข้าไปมีส่วนเกี่ยวข้องกับการล่วงละเมิดสิทธิมนุษยชน 
-การรับฟังข้อมูลหรือทำประชาพิจารณ์ต่อการดำเนินกิจการที่ส่งผลกระทบต่อสังคมโดยรวม 
-และการทำหน้าที่ในการเสียภาษีอากรให้รัฐอย่างตรงไปตรงมา เป็นต้น
-</p>
-<p><span class="bigcap">ดั</span><b>งนั้น</b> การเป็นผู้สนับสนุนเว็บไซต์ด้านการศึกษาอย่างไทยออลดอทคอม
-ที่มีเป้าหมายในการเป็นช่องทางให้ข้อมูลความรู้
-ที่เป็นประโยชน์ และร่วมพัฒนาการศึกษา
-มีกลุ่มเป้าหมายคือ ครู นักเรียน นักศึกษา นักพัฒนาด้านไอที หรือผู้สนใจทั่วไป
-ย่อมทำให้สังคมดีขึ้น ก็ถือเป็นการแสดงความรับผิดชอบต่อสังคมของกิจการอีกทางหนึ่ง
+<p>
+ชื่อนางสาวกวินทรา ยะป๊อก (วิว) จบมัธยมจากโรงเรียนนาหมื่นพิทยาคม อำเภอนาหมื่น จังหวัดน่าน ประสบการณ์ด้านวิชาการตอนมัธยมเคยแข่งขันภาษาจีน
+ภาษาอังกฤษ ภาษาไทย การศึกษาปัจจุบันเรียนอยู่คณะบริหารธุรกิจและรัฐประสาศนศาสตร์ สาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยเนชั่น อำเภอเมือง จังหวัดลำปาง 
+นิสัยส่วนตัวเวลาว่างชอบวาดรูป เล่นกีฬา เล่นเกมส์ ดูหนัง ดูซีรี่ ดูการ์ตูน เป็นต้น
 </p>
 </fieldset>
+
+<div class="row" style="justify-content: center!important;">
+  <div class="info-box">
+  <div class="info-box-content">
+  <div class="image">
+   <img src="https://raw.githubusercontent.com/kawintharawiw/mycool/master/99.jpg" alt="User Image" style="height:350px;" style="width:350px;">
+  </div>
+</div>
+  <!-- /.info-box-content -->
+  </div>
+  <!-- /.info-box -->
+  </div>
+  <!-- /.row -->
+
+  <div class="row" style="justify-content: center!important;">
+    <div class="info-box">
+    <div class="info-box-content">
+    <div class="image">
+     <img src="https://raw.githubusercontent.com/kawintharawiw/home/main/wiw18.jpg" alt="User Image" style="height:350px;" style="width:350px;">
+    </div>
+  </div>
+    <!-- /.info-box-content -->
+    </div>
+    <!-- /.info-box -->
+    </div>
+    <!-- /.row -->
+
     </section>
     <!-- /.content -->
   </div>
